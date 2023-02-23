@@ -1,0 +1,15 @@
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\bin\Debug\net6.0\ClassTask1.exe
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\bin\Debug\net6.0\ClassTask1.deps.json
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\bin\Debug\net6.0\ClassTask1.runtimeconfig.json
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\bin\Debug\net6.0\ClassTask1.dll
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\bin\Debug\net6.0\ClassTask1.pdb
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\obj\Debug\net6.0\ClassTask1.csproj.AssemblyReference.cache
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\obj\Debug\net6.0\ClassTask1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\obj\Debug\net6.0\ClassTask1.AssemblyInfoInputs.cache
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\obj\Debug\net6.0\ClassTask1.AssemblyInfo.cs
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\obj\Debug\net6.0\ClassTask1.csproj.CoreCompileInputs.cache
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\obj\Debug\net6.0\ClassTask1.dll
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\obj\Debug\net6.0\refint\ClassTask1.dll
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\obj\Debug\net6.0\ClassTask1.pdb
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\obj\Debug\net6.0\ClassTask1.genruntimeconfig.cache
+E:\Мила\3.Изучение языков программирования\CodeLesson4\ClassTask1\obj\Debug\net6.0\ref\ClassTask1.dll
